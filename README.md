@@ -1,5 +1,4 @@
-Hello! I am currently a senior undergraduate Computer Science (CS) major with a concentration in Artificial Intelligence at Kennesaw State University. I am on track to graduate this December and plan to pursue a master's degree in Artificial Intelligence. 
+Welcome to my GitHub, I'm Nick!
 
-I am determined to expand my knowledge and skill sets in computer science as well as the several branches of Artificial Intelligence including Machine Vision, Natural Language Processing, and Machine Learning.
-
-- I’m currently working on three projects, pinned to my profile
+- 🎓 Bachelor of Science in Computer Science | Concentration in Artificial Intelligence
+- 🤖 Artificial Intellegence is my passion, interested in MV, ML, and NLP
